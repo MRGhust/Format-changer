@@ -1,0 +1,7 @@
+{
+  "name": "OmniFormat Converter",
+  "description": "A versatile multi-modal converter using standard algorithms to transform text, images, and audio into various formats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
